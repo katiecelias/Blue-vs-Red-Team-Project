@@ -1,0 +1,3 @@
+# readme.md
+
+In this project, I used Azure as an environment to set up virtual machines, which included Windows and Linux machines, as well as making use of an ELK SIEM stack. This project demonstrates the successful exploitation of vulnerabilities to capture a mock flag document and then in turn designing and building solutions to prevent future exploits. Applying skills in security risk analysis, I was able to exploit the vulnerable machine by creating and delivering a payload from the secure Kali Linux machine, and then analyzing the attack from the log documentation in the SIEM environment of the ELK stack. In this Capture the Flag format, this project showcases skills learned and demonstrate the cybersecurity defense techniques outside of the classroom.
